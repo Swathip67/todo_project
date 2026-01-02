@@ -167,3 +167,13 @@ Django Official Documentation
 Python Official Documentation
 
 W3Schools (HTML, CSS)
+
+
+![WhatsApp Image 2026-01-02 at 9 23 09 AM](https://github.com/user-attachments/assets/6ed3ca71-5dfb-45fe-89c6-66509c5f0fc0)
+
+![WhatsApp Image 2026-01-02 at 9 23 09 AM (1)](https://github.com/user-attachments/assets/bbb533f1-ee2e-4356-b640-abf4009066f2)
+
+![WhatsApp Image 2026-01-02 at 9 23 10 AM](https://github.com/user-attachments/assets/1e3e6471-c88c-467b-acf7-c93c04a9a666)
+
+
+
